@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blogweb\\wwwroot\\js\\articleindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\wwwroot\\js\\articleindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blogweb\\wwwroot\\js\\newfile.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\wwwroot\\js\\newfile.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blogweb\\wwwroot\\js\\newfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\wwwroot\\js\\newfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB91CD58-5031-4A91-8C6D-ED20EB6994DE}|Blog.Service\\Blog.Service.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blog.service\\services\\abstractions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB91CD58-5031-4A91-8C6D-ED20EB6994DE}|Blog.Service\\Blog.Service.csproj|solutionrelative:blog.service\\services\\abstractions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blogweb\\areas\\admin\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\areas\\admin\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB91CD58-5031-4A91-8C6D-ED20EB6994DE}|Blog.Service\\Blog.Service.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blog.service\\services\\concretes\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB91CD58-5031-4A91-8C6D-ED20EB6994DE}|Blog.Service\\Blog.Service.csproj|solutionrelative:blog.service\\services\\concretes\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB91CD58-5031-4A91-8C6D-ED20EB6994DE}|Blog.Service\\Blog.Service.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blog.service\\automapper\\categories\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB91CD58-5031-4A91-8C6D-ED20EB6994DE}|Blog.Service\\Blog.Service.csproj|solutionrelative:blog.service\\automapper\\categories\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blogweb\\areas\\admin\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\areas\\admin\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blogweb\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|c:\\users\\elvin\\source\\repos\\blogweb\\blogweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604BDA79-83CD-4BF8-8C38-8C257020FEC5}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "newFile.js",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\wwwroot\\js\\newFile.js",
+              "RelativeDocumentMoniker": "BlogWeb\\wwwroot\\js\\newFile.js",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\wwwroot\\js\\newFile.js",
+              "RelativeToolTip": "BlogWeb\\wwwroot\\js\\newFile.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T14:52:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "newFile.1.js",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\wwwroot\\js\\newFile.1.js",
+              "RelativeDocumentMoniker": "BlogWeb\\wwwroot\\js\\newFile.1.js",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\wwwroot\\js\\newFile.1.js",
+              "RelativeToolTip": "BlogWeb\\wwwroot\\js\\newFile.1.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T14:52:29.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "articleIndex.js",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\wwwroot\\js\\articleIndex.js",
+              "RelativeDocumentMoniker": "BlogWeb\\wwwroot\\js\\articleIndex.js",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\wwwroot\\js\\articleIndex.js",
+              "RelativeToolTip": "BlogWeb\\wwwroot\\js\\articleIndex.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T14:37:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\Blog.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Blog.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\Blog.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "RelativeToolTip": "Blog.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:32:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:13:46.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\Blog.Service\\Services\\Abstractions\\IArticleService.cs",
+              "RelativeDocumentMoniker": "Blog.Service\\Services\\Abstractions\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\Blog.Service\\Services\\Abstractions\\IArticleService.cs",
+              "RelativeToolTip": "Blog.Service\\Services\\Abstractions\\IArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:11:28.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogWeb\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "BlogWeb\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T11:00:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\Blog.Service\\Services\\Concretes\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Blog.Service\\Services\\Concretes\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\Blog.Service\\Services\\Concretes\\ArticleService.cs",
+              "RelativeToolTip": "Blog.Service\\Services\\Concretes\\ArticleService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:05:44.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "BlogWeb\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "BlogWeb\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:59:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BlogWeb\\BlogWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:14:24.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
